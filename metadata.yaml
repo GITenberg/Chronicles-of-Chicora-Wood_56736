@@ -1,11 +1,16 @@
 _repo: Chronicles-of-Chicora-Wood_56736
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56736-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Elizabeth W. Allston (Elizabeth Pringle)
     gutenberg_agent_id: '49008'
     url: http://www.gutenberg.org/2009/agents/49008
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56736#Chronicles-of-Chicora-Wood
 gutenberg_issued: '2018-03-13'
 gutenberg_type: Text
 identifiers:
